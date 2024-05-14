@@ -1,4 +1,4 @@
-#Simple Payment System
+Simple Payment System
 
 This is a simple command-line based payment system implemented in JavaScript. It allows users to create wallets, check balances, add balance, send payments, and view transaction history.
 
