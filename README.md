@@ -16,5 +16,3 @@ Usage:
 4. Run the command: `npm install stellar-sdk` to install dependencies.
 5. Run the command: `node simplePaymentSystem.js` to start the program.
 6. Follow the on-screen instructions to use the system.
-
-Note: This implementation does not interact with the Stellar network. It simulates wallet creation, balance checking, balance adding, payment sending, and transaction history locally for demonstration purposes.
