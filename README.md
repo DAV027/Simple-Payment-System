@@ -14,5 +14,5 @@ Usage:
 2. Install Node.js if not already installed.
 3. Open a terminal or command prompt and navigate to the project directory.
 4. Run the command: `npm install stellar-sdk` to install dependencies.
-5. Run the command: `node simplePaymentSystem.js` to start the program.
+5. Run the command: `node simplePaymentSystem.js` or `cargo run` to start the program.
 6. Follow the on-screen instructions to use the system.
