@@ -1,0 +1,8 @@
+[package]
+name = "simple_payment_system"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+stellar-sdk = "3.0.0"
+chrono = "0.4"
